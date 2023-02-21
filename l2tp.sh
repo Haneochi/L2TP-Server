@@ -336,7 +336,6 @@ version 2.0
 
 config setup
     protostack=netkey
-	nat_traversal=yes
     nhelpers=0
     uniqueids=no
     interfaces=%defaultroute
